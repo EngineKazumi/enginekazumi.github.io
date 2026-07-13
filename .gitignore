@@ -1,2 +1,6 @@
-fanboxWrite.py
-upload_git.bat
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+logs/
+taskkill
